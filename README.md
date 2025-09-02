@@ -54,7 +54,7 @@ student-registration-app
    ```
 
 3. **Configure the database connection**:
-   Edit the `src/config/db.php` file to include your database credentials:
+   Edit the `db.php` file to include your database credentials:
    ```php
    <?php
    $host = 'localhost';

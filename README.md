@@ -4,7 +4,7 @@
 # MATRIC NUMBER: 23/CSC/042
 # COURSE CODE: CSC 282
 # COURSE TITLE: COMPUTER LAB I
-# ASSIGNMENT TITLE: 
+# ASSIGNMENT TITLE: STUDENT REGISTRATION  SYSTEM
 Create a PHP web application for registering students.
 Requirements
 • A form with fields:
